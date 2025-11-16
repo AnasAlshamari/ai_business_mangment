@@ -1,8 +1,7 @@
 # 🤖 AI-Powered Business Management System
-# 🤖مُكَلّف, لإدارة الأعمال بالذكاء الاصطناعي
-
 An intelligent sales management and forecasting system powered by AI, designed specifically for small and medium businesses in Saudi Arabia.
 
+# 🤖مُكَلّف, لإدارة الأعمال بالذكاء الاصطناعي
 نظام متكامل لإدارة وتحليل المبيعات باستخدام تقنيات الذكاء الاصطناعي، مصمم خصيصاً للشركات الصغيرة والمتوسطة في المملكة العربية السعودية.
 
 ## ✨ Features
@@ -55,14 +54,6 @@ http://localhost:8501
 - **Pandas** - Data manipulation and analysis
 - **NumPy** - Numerical computing
 - **Plotly** - Interactive data visualization
-
-## 📸 Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-*Main dashboard with sales m![alt text](image.png)etrics*
-
-![Forecast](screenshots/forecast.png)
-*AI-powered sales forecasting*
 
 ## 🎯 How to Use
 
@@ -158,3 +149,4 @@ Give a ⭐ if this project helped you!
 
 
 Anas Alshammari | مُكَلّف
+
