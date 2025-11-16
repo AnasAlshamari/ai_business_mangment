@@ -1,5 +1,5 @@
 # 🤖 AI-Powered Business Management System
-# مُكَلّف, لإدارة الأعمال بالذكاء الاصطناعي
+# 🤖مُكَلّف, لإدارة الأعمال بالذكاء الاصطناعي
 
 An intelligent sales management and forecasting system powered by AI, designed specifically for small and medium businesses in Saudi Arabia.
 
@@ -19,6 +19,12 @@ An intelligent sales management and forecasting system powered by AI, designed s
 ### Requirements
 - Python 3.8 or higher
 - pip package manager
+
+## 🌐 Live Demo
+
+**🚀 No installation required! Try it now:**
+
+### 👉 [Launch App](https://huggingface.co/spaces/AnasAlshamari/Ai_business_mangment)
 
 ### Installation
 
@@ -149,5 +155,6 @@ If you have any questions or need help, please open an issue on GitHub.
 Give a ⭐ if this project helped you!
 
 ---
+
 
 Anas Alshammari | مُكَلّف
